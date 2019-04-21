@@ -20,6 +20,7 @@ public class Module1 extends BaseClass
 		loginpage.setUsername("ankit3");
 		loginpage.setPassword("abcd1234");
 		loginpage.clickOnLogin();
+		loginpage.clickOnLogin();
 
 		Pg102_HomePage homepage = new Pg102_HomePage(driver);
 		homepage.clickOnMyInfo();
