@@ -1,4 +1,4 @@
-package TestCases;
+package testScripts;
 
 import java.util.List;
 
